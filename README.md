@@ -1,4 +1,14 @@
-### Hi there 👋
+### About me
+
+- Hi there :smiley:, my name is **Camilo Ulloa**
+- :briefcase: I'm looking to colaborate as a data/business analyst inter to enhance my technical and analytical skills
+- :books: I'm currently studying my third year of Economics + Data Analyst major at the _University of Navarra_ :es:
+- :computer: I have experience working with **Python, R, SQL, Excel and PowerBI** 
+- :eyes: I'm interested in developing proyects for optimizing business operations as well as analyzing trends in real estate 
+- :book: I'm currently learning _Machine Learning_, _Web Scrapping_ and _Econometrics_
+- 📫 How to reach me: **camilo16ulloa@hotmail.com**
+- :beers: Fun fact: Did you know that programmers get **superpowers** with a couple of **beers** ? This theory is known as the **Balmer Peak** developed by _Steve Balmer_, Microsoft CEO from 2000-2014
+
 
 <!--
 **Camilo-U/Camilo-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
