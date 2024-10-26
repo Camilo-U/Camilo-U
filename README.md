@@ -1,11 +1,11 @@
 ### About me
 
 - Hi there :smiley:, my name is **Camilo Ulloa**
-- :briefcase: I'm looking to colaborate as a data/business analyst inter to enhance my technical and analytical skills
-- :books: I'm currently studying my third year of Economics + Data Analyst major at the _University of Navarra_ :es:
-- :computer: I have experience working with **Python, R, SQL, Excel and PowerBI** 
+- :briefcase: I'm looking to colaborate as a data scientist to enhance my technical and analytical skills
+- :books: I'm currently a Data Scientist Inter for the Tax Technology Holding department at _BBVA_ :es:
+- :computer: I have experience working with **Python, SQL, Java Script, AWS, Google Cloud, Looker, Excel, Tableau, Kuberneets and PySpark** 
 - :eyes: I'm interested in developing proyects for optimizing business operations as well as analyzing trends in real estate 
-- :book: I'm currently learning _Machine Learning_, _Web Scrapping_ and _Econometrics_
+- :book: I'm currently learning _GEN AI_, _LLM_ and _Automatizations with Airflow_
 - 📫 How to reach me: **camilo16ulloa@hotmail.com**
 - :beers: Fun fact: Did you know that programmers get **superpowers** with a couple of **beers** ? This theory is known as the **Balmer Peak** developed by _Steve Balmer_, Microsoft CEO from 2000-2014
 
